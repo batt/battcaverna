@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=input_brd.PrjPcb
+[Project2]
+ProjectPath=output_brd.PrjPcb
+[Project3]
+ProjectPath=power_interface.PrjPcb
