@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=Project Outputs for power_interface
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -132,7 +132,7 @@ GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for power_interface
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
