@@ -6,3 +6,5 @@ ProjectPath=input_brd.PrjPcb
 ProjectPath=output_brd.PrjPcb
 [Project3]
 ProjectPath=power_interface.PrjPcb
+[Project4]
+ProjectPath=Pannello.PrjPcb
