@@ -8,3 +8,5 @@ ProjectPath=output_brd.PrjPcb
 ProjectPath=power_interface.PrjPcb
 [Project4]
 ProjectPath=Pannello.PrjPcb
+[Project5]
+ProjectPath=relais.PrjPcb
