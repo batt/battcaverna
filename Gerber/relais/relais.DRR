@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: relais.PcbDoc   5/10/2018  6:43:18 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : relais.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.7112mm (28mil)         Round          8                55.76 mm (2.20 Inch)
+T2        0.9mm (35.433mil)        Round          10               22.86 mm (0.90 Inch)
+T3        1.3mm (51.181mil)        Round          40               320.99 mm (12.64 Inch)
+T4        1.5mm (59.055mil)        Round          24               121.92 mm (4.80 Inch)
+T5        3.2mm (125.984mil)       Round          4                307.00 mm (12.09 Inch)
+---------------------------------------------------------------------------
+Totals                                            86               828.53 mm (32.62 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
