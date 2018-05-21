@@ -10,3 +10,5 @@ ProjectPath=power_interface.PrjPcb
 ProjectPath=Pannello.PrjPcb
 [Project5]
 ProjectPath=relais.PrjPcb
+[Project6]
+ProjectPath=shutter.PrjPcb
