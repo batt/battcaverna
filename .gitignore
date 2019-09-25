@@ -5,3 +5,5 @@ Status Report.Txt
 Project logs*
 schematics/input.PcbDoc.htm
 *.htm
+*.dxf~
+*.swp
