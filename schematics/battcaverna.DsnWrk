@@ -2,3 +2,5 @@
 Version=1.0
 [Project1]
 ProjectPath=power_interface.PrjPcb
+[Project2]
+ProjectPath=pwr_switch\pwr_switch.PrjPcb
