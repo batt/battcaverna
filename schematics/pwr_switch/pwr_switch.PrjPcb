@@ -38,6 +38,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\pwr_switch.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
 DocumentPath=..\pwr_switch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -54,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=USNYVARK
 
-[Document2]
+[Document3]
 DocumentPath=pwr_switch.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -70,6 +87,134 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QEYERSIT
+
+[GeneratedDocument1]
+DocumentPath=.\Gerber\pwr_switch.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Free Documents\NC Drill\pwr_switch.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=.\Gerber\pwr_switch.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Free Documents\Gerber\pwr_switch.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=.\Gerber\pwr_switch.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Free Documents\Gerber\pwr_switch.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Free Documents\Gerber\pwr_switch.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=.\Gerber\pwr_switch.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Free Documents\Gerber\pwr_switch.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=.\Gerber\pwr_switch.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Free Documents\Gerber\pwr_switch.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=.\Gerber\pwr_switch.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=.\Gerber\pwr_switch.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=.\Gerber\pwr_switch.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Free Documents\Gerber\pwr_switch.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=.\Gerber\pwr_switch.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=.\Gerber\pwr_switch.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=.\Gerber\pwr_switch.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Free Documents\Gerber\pwr_switch.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Free Documents\Gerber\pwr_switch.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=.\Gerber\pwr_switch.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Free Documents\Gerber\pwr_switch.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=.\Gerber\pwr_switch.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Free Documents\Gerber\pwr_switch.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=.\Gerber\pwr_switch.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Free Documents\NC Drill\pwr_switch.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=.\Gerber\pwr_switch.REP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Free Documents\Gerber\pwr_switch.REP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=.\Gerber\pwr_switch.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Free Documents\Gerber\pwr_switch.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=.\Gerber\pwr_switch.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Free Documents\NC Drill\pwr_switch.TXT
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
